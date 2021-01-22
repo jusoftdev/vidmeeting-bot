@@ -43,8 +43,11 @@
 - **Important** Make sure having the chromedriver/geckodriver in path when you're using the Python Files.
 ======
 Thanks for using  see you.
+
 It'll be cool when you would contribute in this project.
+
 </> by Juhom for JuSoft in 2021
 
 https://jusoft.dev
+
 https://discord.gg/YmyssQZ
