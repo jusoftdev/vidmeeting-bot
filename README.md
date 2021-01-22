@@ -41,8 +41,8 @@
 `pip install selenium`
 
 - **Important** Make sure having the chromedriver/geckodriver in path when you're using the Python Files.
-======
-Thanks for using  see you.
+
+Thanks for using.
 
 It'll be cool when you would contribute in this project.
 
