@@ -13,7 +13,7 @@
 - ♦ Made with: **Python,Selenium**
 
 - ❓Questions? **Join discord https://discord.gg/YmyssQZ**
-- ❓Questions **Join discord https://discord.gg/YmyssQZ**
+- 🌌Version **1.1**
 
   </> with <3 by juhom
 
