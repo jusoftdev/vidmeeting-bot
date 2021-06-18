@@ -31,7 +31,7 @@
 
 <h1 align="center">Files for you to use</h1>
 
-- Chrome User? - Use **Chrome-Versions(Chrome User)** Folder
+- Chromium Browser User? - Use **Chrome-Versions(Chrome User)** Folder
 
 - Firefox User? - Use **Firefox-Versions(Firefox User)** Folder
 
