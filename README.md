@@ -54,4 +54,3 @@
 
 https://jusoft.dev
 
-https://discord.gg/YmyssQZ
